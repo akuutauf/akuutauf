@@ -53,11 +53,24 @@
 
 ## About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on PT. Moda Tronsoft Perkasa
-- 🌱 I’m currently learning to become Fullstack Developper with JavaScript
-- 👯 I’m looking to collaborate Companies or Educational Institutions
-- 💬 Ask me about Web Development and Application Development Solutions
-- 📫 How to reach me: DM me on my Instagram <a href="https://www.instagram.com/akuutauf_/" target="_blank">@akuutauf\_</a>
-- ⚡ Fun fact: I am working hard for my family and loved ones ♥️
+<table align="center">
+  <tr>
+    <!-- Kolom Gambar/GIF -->
+    <td>
+      <img src="frieren-sleep.gif" width="250px">
+    </td>
+    <!-- Kolom About Me -->
+    <td>
+      <h2>About Me</h2>
+      <ul>
+        <li>🔭 I’m currently working on PT. Moda Tronsoft Perkasa</li>
+        <li>🌱 I’m currently learning to become Fullstack Developer with JavaScript</li>
+        <li>👯 I’m looking to collaborate Companies or Educational Institutions</li>
+        <li>💬 Ask me about Web Development and Application Development Solutions</li>
+        <li>📫 How to reach me: DM me on my Instagram 
+          <a href="https://www.instagram.com/akuutauf_/" target="_blank">@akuutauf\_</a></li>
+        <li>⚡ Fun fact: I am working hard for my family and loved ones ♥️</li>
+      </ul>
+    </td>
+  </tr>
+</table>
