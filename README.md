@@ -4,42 +4,36 @@
 
 # Hi there, akuutauf here 👋
 
+## Tech Stack & Tools 🛠
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=for-the-badge&logo=laravel&logoColor=Red)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 <!-- ## Quote of the Day 🌟
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 ## My GitHub Stats & Most Used Languages
 
+<center>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=akuutauf&show_icons=true&theme=dark" alt="GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuutauf&layout=compact&theme=dark" alt="Top Languages"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=akuutauf&show_icons=true&theme=dark" alt="My GitHub Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuutauf&layout=compact&theme=dark" alt="My Top Languages"></td>
   </tr>
 </table>
-
-## My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akuutauf&show_icons=true&theme=dark)
-
-## Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akuutauf&layout=compact&theme=dark)
+</center>
 
 <!-- ## My Contribution Graph 🐍
 
 ![Snake animation](https://github.com/akuutauf/akuutauf/blob/output/github-contribution-grid-snake.svg) -->
 
-## Tech Stack & Tools 🛠
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel.js-000000?style=for-the-badge&logo=laravel&logoColor=Red)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ## Coding Activity ⏳
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akuutauf)
 
 <!-- ## Dev Meme of the Day 😂
 
