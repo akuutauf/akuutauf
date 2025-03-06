@@ -4,21 +4,21 @@
 
 # Hi there, akuutauf here 👋
 
-## Quote of the Day 🌟
+<!-- ## Quote of the Day 🌟
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akuutauf&show_icons=true&theme=dark)
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akuutauf&layout=compact&theme=dark)
 
 ## My Contribution Graph 🐍
 
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/akuutauf/akuutauf/blob/output/github-contribution-grid-snake.svg)
 
 ## Tech Stack & Tools 🛠
 
@@ -38,11 +38,11 @@
 
 ## GitHub Trophies 🏆
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akuutauf&theme=radical&no-frame=true&margin-w=10)
 
 ## GitHub Streak 🔥
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=akuutauf&theme=dark&hide_border=true)
 
 ## About Me
 
