@@ -61,7 +61,6 @@
     </td>
     <!-- Kolom About Me -->
     <td>
-      <h2>About Me</h2>
       <ul>
         <li>🔭 I’m currently working on PT. Moda Tronsoft Perkasa</li>
         <li>🌱 I’m currently learning to become Fullstack Developer with JavaScript</li>
