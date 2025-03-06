@@ -18,22 +18,26 @@
 
 ## My GitHub Stats & Most Used Languages
 
-<center>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=akuutauf&show_icons=true&theme=dark" alt="My GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuutauf&layout=compact&theme=dark" alt="My Top Languages"></td>
-  </tr>
-</table>
-</center>
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=akuutauf&show_icons=true&theme=dark" alt="My GitHub Stats">
+            </td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuutauf&layout=compact&theme=dark" alt="My Top Languages">
+            </td>
+        </tr>
+    </table>
+</div>
 
-<!-- ## My Contribution Graph 🐍
+<!-- ## My Contribution Graph
 
 ![Snake animation](https://github.com/akuutauf/akuutauf/blob/output/github-contribution-grid-snake.svg) -->
 
-## Coding Activity ⏳
+<!-- ## Coding Activity ⏳
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akuutauf)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akuutauf) -->
 
 <!-- ## Dev Meme of the Day 😂
 
@@ -49,19 +53,11 @@
 
 ## About Me
 
-- 🚀 I'm working on [Your Project or Company]
-- 🌱 I’m currently learning [Topics you are learning]
-- 💬 Ask me about [Topics you are good at]
-- 📫 How to reach me: [Your Email or Social Media]
-- ⚡ Fun fact: [A fun fact about yourself]
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on PT. Moda Tronsoft Perkasa
+- 🌱 I’m currently learning to become Fullstack Developper with JavaScript
+- 👯 I’m looking to collaborate Companies or Educational Institutions
+- 💬 Ask me about Web Development and Application Development Solutions
+- 📫 How to reach me: DM me on my Instagram <a href="https://www.instagram.com/akuutauf_/" target="_blank">@akuutauf\_</a>
+- ⚡ Fun fact: I am working hard for my family and loved ones ♥️
