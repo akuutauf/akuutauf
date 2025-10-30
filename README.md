@@ -6,6 +6,7 @@
 
 ## Tech Stack & Tools 🛠
 
+![GoLang](https://img.shields.io/badge/GoLang-00add8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -63,7 +64,7 @@
     <td>
       <ul>
         <li>🔭 I’m currently working on PT. Moda Tronsoft Perkasa</li>
-        <li>🌱 I’m currently learning to become Fullstack Developer with JavaScript</li>
+        <li>🌱 I’m currently learning to become Backend Developer with Go Lang</li>
         <li>👯 I’m looking to collaborate Companies or Educational Institutions</li>
         <li>💬 Ask me about Web Development and Application Development Solutions</li>
         <li>📫 How to reach me: DM me on my Instagram 
