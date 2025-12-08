@@ -18,7 +18,7 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
-## My GitHub Stats & Most Used Languages
+<!-- ## My GitHub Stats & Most Used Languages
 
 <div align="center">
     <table>
