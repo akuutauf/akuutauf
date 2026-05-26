@@ -101,7 +101,7 @@ I'm also active as a tutor in technology and informatics, while continuing to de
 
 ---
 
-## About Me
+## My Activities
 
 <table align="center">
   <tr>
@@ -109,12 +109,12 @@ I'm also active as a tutor in technology and informatics, while continuing to de
     <td>
       <img src="frieren-sleep.gif" width="250px">
     </td>
-    <!-- Kolom About Me -->
+    <!-- Kolom My Activities -->
     <td>
       <ul>
-        <li>🔭 Im currently working on PT. Lembimjar Neutron Yogyakarta</li>
-        <li>🌱 Im currently learning to become Backend Developer with Go Lang</li>
-        <li>👯 Im looking to collaborate Companies or Educational Institutions</li>
+        <li>🔭 I'm currently working on PT. Lembimjar Neutron Yogyakarta</li>
+        <li>🌱 I'm currently learning to become Backend Developer with Go Lang</li>
+        <li>👯 I'm looking to collaborate Companies or Educational Institutions</li>
         <li>💬 Ask me about Web Development and Application Development Solutions</li>
         <li>📫 How to reach me: DM me on my Instagram 
           <a href="https://www.instagram.com/akuutauf_/" target="_blank">@akuutauf_</a></li>
