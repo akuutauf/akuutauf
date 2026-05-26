@@ -89,16 +89,15 @@ Saat ini saya juga aktif sebagai pengajar bimbingan belajar di bidang teknologi 
       <img src="https://github-readme-stats.shion.dev/api?username=akuutauf&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=akuutauf&theme=shadow_blue&hide_border=false" alt="GitHub Streak"/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=akuutauf&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=akuutauf&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+<!-- Github Streak -->
+<!-- <img src="https://streak-stats.demolab.com/?user=akuutauf&theme=shadow_blue&hide_border=false" alt="GitHub Streak"/> -->
 
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=akuutauf&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
