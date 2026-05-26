@@ -4,9 +4,9 @@
 
 # Hi there <img alt="GIF" height="30px" width="30px" src="./wave-hello.gif" />
 
-Halo, saya **Taufik**, seorang Fullstack Developer yang berfokus pada pengembangan aplikasi web dan REST API. Saya memiliki pengalaman dalam menggunakan JavaScript dan PHP, serta terbiasa bekerja dengan framework seperti Laravel dan Express.js. Selain itu, saya juga memahami alur pengembangan kolaboratif menggunakan Git dan memiliki ketertarikan dalam membangun solusi yang efisien, scalable, dan mudah dikembangkan. Saat ini, saya sedang memperdalam kemampuan di bidang Go (Golang) dan React.js untuk memperluas wawasan dalam pengembangan aplikasi modern.
+Hi, I'm **Taufik**, a Fullstack Developer focusing on web application and REST API development. I have experience using PHP and JavaScript, and am familiar with frameworks like Laravel and Express.js. Furthermore, I understand collaborative development flows using Git and am interested in building efficient, scalable, and easily extensible solutions. I'm currently developing my skills in Go (Golang) and React.js to broaden my knowledge of modern application development.
 
-Saat ini saya juga aktif sebagai pengajar bimbingan belajar di bidang teknologi dan informatika, sambil terus mengembangkan berbagai proyek aplikasi yang bermanfaat bagi lingkungan sekitar. Saya terbiasa mengerjakan proyek secara mandiri maupun kolaboratif, serta terbuka terhadap peluang kerja dan proyek freelance. Sebelumnya, saya pernah bekerja sebagai Backend Developer di Politeknik Negeri Banyuwangi dan terlibat dalam pengembangan beberapa sistem, di antaranya **SIAKAD** dan **ULT Poliwangi**, sekaligus terus mengembangkan berbagai proyek pribadi lainnya sebagai sarana belajar dan eksplorasi teknologi baru.
+I'm also active as a tutor in technology and informatics, while continuing to develop various application projects that benefit the community. I'm accustomed to working on projects both independently and collaboratively, and I'm open to job opportunities and freelance projects. Previously, I worked as a Backend Developer at the Banyuwangi State Polytechnic, involved in the development of several systems, including **SIAKAD** and **ULT Poliwangi**. I also continue to develop various personal projects as a means of learning and exploring new technologies.
 
 ---
 
