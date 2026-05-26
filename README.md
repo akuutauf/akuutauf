@@ -86,16 +86,16 @@ I'm also active as a tutor in technology and informatics, while continuing to de
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=akuutauf&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.shion.dev/api?username=akuutauf&theme=white&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=akuutauf&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=akuutauf&theme=white&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
 <!-- Github Streak -->
-<!-- <img src="https://streak-stats.demolab.com/?user=akuutauf&theme=shadow_blue&hide_border=false" alt="GitHub Streak"/> -->
+<!-- <img src="https://streak-stats.demolab.com/?user=akuutauf&theme=white&hide_border=false" alt="GitHub Streak"/> -->
 
 </div>
 
