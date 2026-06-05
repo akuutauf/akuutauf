@@ -36,7 +36,7 @@ I'm also active as a tutor in technology and informatics, while continuing to de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taufik-hidayat-bwx)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/akuutauf)
 [![Tinkercad](https://img.shields.io/badge/Tinkercad-ffffff?style=for-the-badge&logo=tinkercad&logoColor=blue)](https://www.tinkercad.com/users/dHWEUWxY5H3)
-[![Scratch](https://img.shields.io/badge/Tinkercad-9B5DE0?style=for-the-badge&logo=scratch&logoColor=yellow)](https://scratch.mit.edu/users/akuutauf/)
+[![Scratch](https://img.shields.io/badge/Scartch-9B5DE0?style=for-the-badge&logo=scratch&logoColor=yellow)](https://scratch.mit.edu/users/akuutauf/)
 
 <!-- --- -->
 
